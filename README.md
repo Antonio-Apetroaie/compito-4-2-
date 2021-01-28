@@ -1,5 +1,8 @@
 # compito-4-2-
 variante con if:
+
+
+
 #define led1 5
 #define led2 6
 #define led3 7
@@ -109,6 +112,9 @@ if (num = 15);{
  
  
  variante con for:
+ 
+ 
+ 
  #define increase 7
 #define decrease 6
 #define led1 2
